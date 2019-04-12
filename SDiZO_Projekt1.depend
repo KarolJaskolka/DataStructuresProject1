@@ -1,0 +1,161 @@
+# depslib dependency file v1.0
+1552850226 source:c:\users\karol\desktop\sdizo_projekt1\sdizo_projekt1\menu.cpp
+	"Menu.h"
+	<windows.h>
+	<iostream>
+
+1552850152 c:\users\karol\desktop\sdizo_projekt1\sdizo_projekt1\menu.h
+
+1553517591 source:c:\users\karol\desktop\sdizo_projekt1\main.cpp
+	<iostream>
+	"Menu.h"
+
+1552853887 c:\users\karol\desktop\sdizo_projekt1\menu.h
+
+1553603461 source:c:\users\karol\desktop\sdizo_projekt1\myheap.cpp
+	"MyHeap.h"
+	<cmath>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<ctime>
+
+1553383533 c:\users\karol\desktop\sdizo_projekt1\myheap.h
+
+1553380861 source:c:\users\karol\desktop\sdizo_projekt1\mylist.cpp
+	"ElementList.h"
+	"MyList.h"
+	<iostream>
+	<fstream>
+	<ctime>
+
+1552850755 c:\users\karol\desktop\sdizo_projekt1\elementlist.h
+
+1553380616 c:\users\karol\desktop\sdizo_projekt1\mylist.h
+	"ElementList.h"
+
+1553374348 source:c:\users\karol\desktop\sdizo_projekt1\mytable.cpp
+	"MyTable.h"
+	<iostream>
+	<fstream>
+	<ctime>
+
+1553373815 c:\users\karol\desktop\sdizo_projekt1\mytable.h
+
+1553518043 source:c:\users\karol\desktop\sdizo_projekt1\mytree.cpp
+	"MyTree.h"
+	<iostream>
+	<windows.h>
+
+1552851451 source:c:\users\karol\desktop\sdizo_projekt1\elementlist.cpp
+	"ElementList.h"
+	<iostream>
+
+1553616410 source:c:\users\karol\desktop\sdizo_projekt1\menu.cpp
+	"Menu.h"
+	"MyHeap.h"
+	"MyList.h"
+	"MyTable.h"
+	"ElementList.h"
+	"MyTree.h"
+	<windows.h>
+	<iostream>
+	<fstream>
+	<ctime>
+	<chrono>
+
+1553518037 c:\users\karol\desktop\sdizo_projekt1\mytree.h
+	"Node.h"
+
+1553518064 c:\users\karol\desktop\sdizo_projekt1\node.h
+
+1553518031 source:c:\users\karol\desktop\sdizo_projekt1\node.cpp
+	"Node.h"
+	<iostream>
+
+1552851451 source:d:\karol\documents\pwr\semestr iv\sdizo\sdizo_projekt1\elementlist.cpp
+	"ElementList.h"
+	<iostream>
+
+1552850755 d:\karol\documents\pwr\semestr iv\sdizo\sdizo_projekt1\elementlist.h
+
+1553603461 source:d:\karol\documents\pwr\semestr iv\sdizo\sdizo_projekt1\myheap.cpp
+	"MyHeap.h"
+	<cmath>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<ctime>
+
+1553383533 d:\karol\documents\pwr\semestr iv\sdizo\sdizo_projekt1\myheap.h
+
+1553380861 source:d:\karol\documents\pwr\semestr iv\sdizo\sdizo_projekt1\mylist.cpp
+	"ElementList.h"
+	"MyList.h"
+	<iostream>
+	<fstream>
+	<ctime>
+
+1553380616 d:\karol\documents\pwr\semestr iv\sdizo\sdizo_projekt1\mylist.h
+	"ElementList.h"
+
+1553374348 source:d:\karol\documents\pwr\semestr iv\sdizo\sdizo_projekt1\mytable.cpp
+	"MyTable.h"
+	<iostream>
+	<fstream>
+	<ctime>
+
+1553373815 d:\karol\documents\pwr\semestr iv\sdizo\sdizo_projekt1\mytable.h
+
+1553647127 source:d:\testgit\pwr\sdizo_projekt1\elementlist.cpp
+	"ElementList.h"
+	<iostream>
+
+1553647127 d:\testgit\pwr\sdizo_projekt1\elementlist.h
+
+1553647127 source:d:\testgit\pwr\sdizo_projekt1\main.cpp
+	<iostream>
+	"Menu.h"
+
+1554378637 d:\testgit\pwr\sdizo_projekt1\menu.h
+
+1554378537 source:d:\testgit\pwr\sdizo_projekt1\myheap.cpp
+	"MyHeap.h"
+	<cmath>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<ctime>
+
+1553647127 d:\testgit\pwr\sdizo_projekt1\myheap.h
+
+1554378522 source:d:\testgit\pwr\sdizo_projekt1\mylist.cpp
+	"ElementList.h"
+	"MyList.h"
+	<iostream>
+	<fstream>
+	<ctime>
+
+1553647127 d:\testgit\pwr\sdizo_projekt1\mylist.h
+	"ElementList.h"
+
+1554378515 source:d:\testgit\pwr\sdizo_projekt1\mytable.cpp
+	"MyTable.h"
+	<iostream>
+	<fstream>
+	<ctime>
+
+1553647127 d:\testgit\pwr\sdizo_projekt1\mytable.h
+
+1554378674 source:d:\testgit\pwr\sdizo_projekt1\menu.cpp
+	"Menu.h"
+	"MyHeap.h"
+	"MyList.h"
+	"MyTable.h"
+	"ElementList.h"
+	<windows.h>
+	<iostream>
+	<fstream>
+	<ctime>
+	<chrono>
+
